@@ -1,4 +1,3 @@
-import 'package:collection/collection.dart';
 
 /// 駅の情報
 class StationLatLng {
